@@ -1,0 +1,22 @@
+{
+  "name": "Tanidpon ",
+  "version": "1.0.0",
+  "description": "Pokedex of Pokemon eiei",
+  "main": "index.html",
+  "scripts": {
+    "start": "node_modules/http-server/bin/http-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Citizenboss/MyPokedexs.git"
+  },
+  "author": "Tanawat Tassana",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Citizenboss/MyPokedexs.git/issues"
+  },
+  "homepage": "https://github.com/Citizenboss/MyPokedexs.git#readme",
+  "devDependencies": {
+    "http-server": "^0.9.0"
+  }
+}
